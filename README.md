@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hey! I'm Mikigo 👋
+I'm a autotest engineer from china.
+I’m currently working on deepin.
 <!--
 **mikigo/mikigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
