@@ -3,6 +3,9 @@ I'm a autotest engineer from Chengdu,China.
 
 I’m currently working on deepin.
 
+Welcome to my organization：https://github.com/funny-dream
+
+
 <!--
 **mikigo/mikigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
