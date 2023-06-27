@@ -1,9 +1,11 @@
 ### Hey! I'm Mikigo 👋
 I'm a autotest engineer from Chengdu,China.
 
-I’m currently working on deepin.
+I’m currently working on deepin/UOS.
 
 Welcome to my organization：https://github.com/funny-dream
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0CF783&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 
 
 <!--
