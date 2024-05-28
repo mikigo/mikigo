@@ -1,10 +1,7 @@
 ### Hey! I'm Mikigo 👋
 I'm a autotest engineer from Chengdu,China.
 
-I’m currently working on deepin/UOS.
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0CF783&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
-
+I’m currently working on Deepin/UOS.
 
 <!--
 **mikigo/mikigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
