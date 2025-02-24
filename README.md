@@ -1,7 +1,9 @@
 ### Hey! I'm Mikigo 👋
 I'm a autotest engineer from Chengdu,China.
 
-I’m currently working on JunYun Tech.
+my blog 
+
+https://zeng-yi.com
 
 <!--
 **mikigo/mikigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
