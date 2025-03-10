@@ -1,8 +1,8 @@
-### Hey! I'm mikigo 👋
+### Hey! I'm mikigo(huangmingqiang) 👋
 
 I'm a Autotest Engineer from Chengdu,China.
 
-this is my blog https://zeng-yi.com
+this is my docs https://zeng-yi.com
 
 <!--
 **mikigo/mikigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
