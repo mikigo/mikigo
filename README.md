@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://zeng-yi.com" target="_blank"><img src="https://img.shields.io/badge/Website-zeng--yi.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail"></a>
+  <a href="1964191531@qq.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/mikigo"><img src="https://img.shields.io/github/followers/mikigo?label=Follow&style=social"></a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 🖼️ Featured Projects
 
-- [🌍 My Portfolio](https://zeng-yi.com) - 个人作品集，极简与创意并存，欢迎访问！
+- [🌍 My Website](https://zeng-yi.com) - 个人作品集，极简与创意并存，欢迎访问！
 - [🔮 Creative Code Labs](#) - 探索新奇有趣的前端交互与视觉实验。
 - [📷 Photo Gallery](#) - 记录旅行与生活的美好瞬间。
 
